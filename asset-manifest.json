@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/educonnect-erp/static/css/main.2a1fbf28.css",
+    "main.js": "/educonnect-erp/static/js/main.9f31d422.js",
+    "index.html": "/educonnect-erp/index.html",
+    "main.2a1fbf28.css.map": "/educonnect-erp/static/css/main.2a1fbf28.css.map",
+    "main.9f31d422.js.map": "/educonnect-erp/static/js/main.9f31d422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a1fbf28.css",
+    "static/js/main.9f31d422.js"
+  ]
+}
